@@ -9,3 +9,4 @@ anthropic
 unstructured
 pdf2image
 pdfminer.six
+langchain-huggingface
