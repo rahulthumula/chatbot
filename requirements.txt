@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-anthropic
+python-dotenv
+sentence-transformers
+faiss-cpu
+anthropic
+unstructured
+pdf2image
+pdfminer.six
